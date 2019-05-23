@@ -55,6 +55,10 @@ Therefore, we will use text classification to find a model which can be used to 
 
 Once we have this new attribute, we will put it in relation with the book cover image to see if we can find a relationship. Also, we will see how this new score evolves over time.
 
+## Results
+
+For more information see https://github.com/prodp/AppliedDataAnalysisProject/blob/master/Poster.pdf and https://github.com/prodp/AppliedDataAnalysisProject/blob/master/ADA_Report.pdf
+
 ## Contributors
 
 [Mike Bardet] , [Diana Petrescu]
