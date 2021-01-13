@@ -57,7 +57,7 @@ Once we have this new attribute, we will put it in relation with the book cover 
 
 ## Results
 
-For more information see https://github.com/prodp/AppliedDataAnalysisProject/blob/master/Poster.pdf and https://github.com/prodp/AppliedDataAnalysisProject/blob/master/ADA_Report.pdf
+For more information see [poster](https://github.com/prodp/AppliedDataAnalysisProject/blob/master/Poster.pdf) and [report](https://github.com/prodp/AppliedDataAnalysisProject/blob/master/ADA_Report.pdf).
 
 ## Contributors
 
